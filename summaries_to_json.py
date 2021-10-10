@@ -22,7 +22,7 @@ with open('booksummaries.txt', 'r', encoding="utf8") as summaries, open('summari
     if 'Non-fiction' in book['genres'] and 'Fiction' in book['genres']:
       book['genres'].pop(book['genres'].index('Fiction'))
     for key in book['genres']:
-      if 'Fiction' in key or ' fiction':
+      if 'Fiction' in key or ' fiction' in key:
         book['genres'].append('Fiction')
         book['genres'] = list(set(book['genres']))
     
