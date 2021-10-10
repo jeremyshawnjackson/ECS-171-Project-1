@@ -1,0 +1,230 @@
+Fiction: 4747
+Speculative fiction: 4314
+Science Fiction: 2870
+Novel: 2463
+Fantasy: 2413
+Childrens literature: 2122
+Mystery: 1396
+Young adult literature: 825
+Suspense: 765
+Crime Fiction: 753
+Historical novel: 654
+Thriller: 568
+Horror: 511
+Romance novel: 435
+Historical fiction: 388
+Detective fiction: 341
+Adventure novel: 330
+Non-fiction: 230
+Alternate history: 226
+Spy fiction: 190
+Comedy: 145
+Dystopia: 127
+Autobiography: 124
+Satire: 123
+Gothic fiction: 112
+Comic novel: 104
+Biography: 102
+Novella: 87
+War novel: 87
+Short story: 78
+Autobiographical novel: 77
+History: 73
+Utopian and dystopian fiction: 67
+Memoir: 67
+High fantasy: 66
+Humour: 62
+Techno-thriller: 59
+Apocalyptic and post-apocalyptic fiction: 56
+Picture book: 49
+Role-playing game: 48
+Philosophy: 47
+Steampunk: 47
+Paranormal romance: 46
+Bildungsroman: 42
+Western: 41
+Gamebook: 39
+Reference: 38
+Black comedy: 38
+Urban fantasy: 37
+Literary fiction: 36
+Military science 
+fiction: 33
+Sociology: 31
+Sword and sorcery: 31
+Epistolary novel: 30
+Whodunit: 30
+Roman à clef: 29
+Absurdist fiction: 29
+Drama: 29
+Poetry: 28
+Psychological novel: 26
+Hard science fiction: 25
+Magic realism: 25
+Hardboiled: 24
+Western fiction: 23
+Adventure: 23
+Dark fantasy: 23
+Science: 22
+True crime: 22
+Travel: 21
+Psychology: 21
+Time travel: 20
+Picaresque novel: 18
+Wuxia: 18
+Historical fantasy: 18
+Graphic novel: 17
+Parallel novel: 17
+Cyberpunk: 16
+Business: 16
+Religion: 16
+Erotica: 16
+Lost World: 16
+Parody: 15
+Chivalric romance: 15
+Vampire fiction: 15
+Scientific romance: 14
+Economics: 13
+Politics: 13
+Künstlerroman: 12
+Mathematics: 12
+Biographical novel: 12
+Space opera: 12
+Cozy: 11
+Travel literature: 11
+Chick lit: 11
+Inspirational: 10
+Music: 10
+Comic book: 10
+Nature: 10
+Science fantasy: 10
+Regency romance: 10
+Play: 9
+Fairy tale: 9
+Tragicomedy: 9
+Existentialism: 8
+Popular science: 8
+Literary realism: 8
+Self-help: 7
+Comic science fiction: 7
+Feminist science fiction: 7
+Historical whodunnit: 7
+Personal journal: 7
+Postmodernism: 7
+Gay novel: 7
+Sports: 7
+Transhumanism: 6
+Post-holocaust: 6
+Industrial novel: 6
+Comics: 6
+Fantasy of manners: 6
+Historical romance: 6
+Anthology: 6
+Contemporary fantasy: 6
+Spirituality: 5
+Zombies in popular culture: 5
+Planetary romance: 5
+Treatise: 5
+Comic fantasy: 5
+Locked room mystery: 5
+Soft science fiction: 5
+Campus novel: 5
+Social science fiction: 5
+Essay: 5
+Urban fiction: 5
+Mashup: 5
+Religious text: 4
+Invasion literature: 4
+Farce: 4
+Sea story: 4
+Anthropology: 4
+Supernatural: 4
+Conspiracy fiction: 4
+Ghost story: 4
+Social novel: 4
+Zombie: 4
+Coming of age: 4
+Edisonade: 4
+Subterranean fiction: 4
+Heroic fantasy: 4
+Encyclopedia: 4
+Prose: 4
+Catastrophic literature: 3
+Non-fiction novel: 3
+Ergodic literature: 3
+Social sciences: 3
+Social commentary: 3
+Political philosophy: 3
+Serial: 3
+Dying Earth subgenre: 3
+Polemic: 3
+Photography: 3
+Creative nonfiction: 3
+Juvenile fantasy: 2
+Albino bias: 2
+Postcyberpunk: 2
+Comedy of manners: 2
+Morality play: 2
+Prose poetry: 2
+Literary criticism: 2
+Naval adventure: 2
+Transgender and transsexual fiction: 2
+Sword and planet: 2
+LGBT literature: 2
+Foreign legion: 2
+Robinsonade: 2
+Romantic comedy: 2
+Metaphysics: 2
+Education: 2
+Cookbook: 2
+Military history: 2
+Modernism: 2
+Light novel: 2
+Fairytale fantasy: 2
+Biopunk: 2
+Computer Science: 1
+Social criticism: 1
+Anti-war: 1
+Human extinction: 1
+First-person narrative: 1
+New Weird: 1
+Cabal: 1
+Conspiracy: 1
+School story: 1
+English public-school stories: 1
+Boys school stories: 1
+Experimental literature: 1
+Gay Themed: 1
+Utopian fiction: 1
+Future history: 1
+Anti-nuclear: 1
+Literary theory: 1
+Elizabethan romance: 1
+Pornography: 1
+Georgian 
+romance: 1
+American Gothic Fiction: 1
+Field guide: 1
+Fable: 1
+Bangsian fantasy: 1
+Space western: 1
+Fantastique: 1
+Youth: 1
+Medieval 
+romance: 1
+Bit Lit: 1
+Collage: 1
+Superhero fiction: 1
+Marketing: 1
+Colonial United States romance: 1
+Low fantasy: 1
+Police procedural: 1
+Indian chick lit: 1
+Autobiographical comics: 1
+Fictional crossover: 1
+Popular culture: 1
+Neuroscience: 1
+New York Times Best Seller list: 1
+Epic Science Fiction and Fantasy: 1
+Alien invasion: 1
+Pastiche: 1
